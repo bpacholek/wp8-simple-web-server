@@ -1,0 +1,4 @@
+c:\users\bartosz\documents\visual studio 2012\Projects\SimpleWebServer\SimpleWebServer\Bin\Release\SimpleWebServer.dll
+c:\users\bartosz\documents\visual studio 2012\Projects\SimpleWebServer\SimpleWebServer\Bin\Release\SimpleWebServer.pdb
+c:\users\bartosz\documents\visual studio 2012\Projects\SimpleWebServer\SimpleWebServer\obj\Release\SimpleWebServer.dll
+c:\users\bartosz\documents\visual studio 2012\Projects\SimpleWebServer\SimpleWebServer\obj\Release\SimpleWebServer.pdb

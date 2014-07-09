@@ -1,0 +1,4 @@
+c:\users\bartosz\documents\visual studio 2012\Projects\SimpleWebServer\SimpleWebServer\Bin\Debug\SimpleWebServer.dll
+c:\users\bartosz\documents\visual studio 2012\Projects\SimpleWebServer\SimpleWebServer\Bin\Debug\SimpleWebServer.pdb
+c:\users\bartosz\documents\visual studio 2012\Projects\SimpleWebServer\SimpleWebServer\obj\Debug\SimpleWebServer.dll
+c:\users\bartosz\documents\visual studio 2012\Projects\SimpleWebServer\SimpleWebServer\obj\Debug\SimpleWebServer.pdb
